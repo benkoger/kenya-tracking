@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+*.MOV
+*.mov
+*.jpg
+*.JPG
+__pycache__
+*.xml
+*.golden-shiner
+*.mp4
